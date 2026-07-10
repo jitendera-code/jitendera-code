@@ -2,86 +2,95 @@
 
 ### Data Analyst | SQL | Power BI | Excel | Business Intelligence
 
-🚀 **About Me**
+I'm an aspiring **Data Analyst** passionate about transforming raw data into actionable business insights. I enjoy solving business problems using **SQL, Power BI, Excel, and Python** by building dashboards, analyzing business performance, and creating data-driven solutions.
 
-I'm an aspiring Data Analyst passionate about transforming raw data into actionable business insights. I enjoy cleaning, analyzing, and visualizing data to uncover trends that support better decision-making.
-
-My focus is on building end-to-end analytics projects using SQL, Power BI, and Excel, while continuously improving my skills in data storytelling, dashboard design, and business analytics.
-
-I recently completed projects involving customer segmentation, retail sales analysis, and interactive business dashboards. My goal is to leverage data to solve real-world business problems and drive measurable impact.
-
-When I'm not working with data, I enjoy learning new analytics concepts, building portfolio projects, and sharing my learning journey on LinkedIn.
+Currently, I'm focused on strengthening my skills in **Business Intelligence, Reporting Automation, Data Storytelling, and Business Analytics** while building real-world portfolio projects.
 
 ---
 
-## 🏆 Portfolio Projects
+# 📊 Data Analytics Portfolio
 
-### 📊 Retail Sales Analytics Dashboard
-
-* Built an interactive Power BI dashboard using SQL and Power Query.
-* Analyzed sales trends, customer behavior, and product performance.
-* Created KPI metrics, DAX measures, and business insights.
-
-### 🎯 Customer Segmentation (RFM Analysis)
-
-* Segmented customers using Recency, Frequency, and Monetary metrics.
-* Identified high-value customers and retention opportunities.
-* Built visual dashboards for stakeholder decision-making.
+Welcome to my portfolio! This repository showcases end-to-end analytics projects built using **SQL Server, Power BI, Microsoft Excel, and Python**. Each project focuses on solving real business problems through data cleaning, analysis, dashboard development, and actionable business recommendations.
 
 ---
 
-## 🔭 What I'm Currently Working On
+## 📚 Table of Contents
 
-* Building advanced SQL portfolio projects.
-* Improving Power BI dashboard storytelling and design.
-* Practicing business case studies and analytical thinking.
-* Learning Python for data analysis and automation.
-
----
-
-## 🌱 Currently Learning
-
-* Python (Pandas, NumPy, Data Cleaning)
-* Exploratory Data Analysis (EDA)
-* Data Storytelling & Dashboard Design
-* Business Analytics Frameworks
-* Statistical Analysis for Decision-Making
+- [About Me](#about-me)
+- [Featured Projects](#featured-projects)
+- [Technical Skills](#technical-skills)
+- [Currently Learning](#currently-learning)
+- [GitHub Goals](#github-goals)
+- [Connect With Me](#connect-with-me)
 
 ---
 
-## 🛠️ Technical Skillset
+# About Me
 
-### 📈 Data Analysis & Visualization
-
-* SQL
-* Power BI
-* Microsoft Excel
-* Power Query
-* Data Cleaning
-* Data Visualization
-* Dashboard Development
-
-### 🐍 Programming & Automation
-
-* Python (Learning)
-* Pandas
-* NumPy
-
-### 📊 Business Intelligence & Analytics
-
-* KPI Development
-* Customer Segmentation
-* RFM Analysis
-* Statistical Analysis
-* Business Reporting
-* Data Storytelling
+- 📊 Building end-to-end Data Analytics projects using SQL, Power BI & Excel
+- 📈 Passionate about KPI Reporting, Dashboard Design & Business Storytelling
+- 🧹 Experienced in Data Cleaning, Transformation & Exploratory Analysis
+- 🐍 Learning Python for Data Analysis & Automation
+- 🤖 Using AI tools to improve productivity and analytics workflows
+- 🎯 Seeking opportunities as a **Data Analyst, MIS Analyst, or Business Intelligence Analyst**
 
 ---
 
-## 📫 Connect With Me
+# Featured Projects
 
-* LinkedIn: [Your LinkedIn URL]
-* GitHub: https://github.com/jitendera-code
-* Email: [Your Email]
+| Project | Business Domain | Tools | Description |
+|---------|-----------------|-------|-------------|
+| 🛒 **[Retail Sales Performance & Customer Retention Analytics](https://github.com/jitendera-code/Retail-Sales-Customer-Segmentation-Dashboard-SQL-Power-BI-Project)** | Retail Analytics | SQL Server, Power BI, DAX | Cleaned and analyzed **540K+ retail transactions**, performed Revenue, Product, Customer Behaviour, and RFM Analysis, and built an executive Power BI dashboard with KPI reporting and business recommendations. |
+| 💼 **[Global Consulting Revenue Analytics](YOUR_REPOSITORY_LINK)** | Consulting Analytics | SQL Server, Power BI | Designed a relational database and executive dashboard to analyze consulting revenue across regions, departments, and clients using SQL Joins, CTEs, Window Functions, and DAX. |
+| 📈 **[Vrinda Store Sales Dashboard](https://github.com/jitendera-code/vrinda_store_sales-analysis_Excel)** | E-commerce Analytics | Microsoft Excel | Developed an interactive Excel dashboard using Pivot Tables, Pivot Charts, KPIs, and Slicers to analyze **31K+ sales transactions**, customer demographics, regional performance, and sales channels. |
+| 👥 **HR Analytics Dashboard** *(Coming Soon)* | Human Resources | SQL Server, Power BI | Workforce analytics project covering employee demographics, hiring trends, attrition analysis, and HR KPI reporting. |
 
-💡 *Turning data into actionable insights through analytics and storytelling.*
+---
+
+# Technical Skills
+
+| Category | Skills |
+|----------|---------|
+| **Database & SQL** | SQL Server, PostgreSQL, Joins, Views, CTEs, Window Functions, Aggregate Functions |
+| **Business Intelligence** | Power BI, Power Query, DAX, Data Modeling, KPI Dashboards |
+| **Microsoft Excel** | Pivot Tables, Pivot Charts, XLOOKUP, Conditional Formatting, Dashboard Reporting |
+| **Data Analytics** | Data Cleaning, Revenue Analysis, Customer Segmentation (RFM), KPI Reporting, Business Storytelling |
+| **Python (Basic)** | Pandas, NumPy, File Handling, Data Cleaning, Basic Automation |
+| **AI Productivity** | ChatGPT, Claude, Gemini, Prompt Engineering |
+
+---
+
+# Currently Learning
+
+- Advanced SQL for Analytics
+- Python for Data Analysis & Automation
+- Statistics for Data Analytics
+- Business Intelligence Best Practices
+- Dashboard Storytelling
+
+---
+
+# GitHub Goals
+
+- Build high-quality business analytics projects
+- Expand my portfolio across Retail, HR, Finance, and Supply Chain domains
+- Improve dashboard storytelling and executive reporting
+- Strengthen Python for analytics and automation
+- Contribute to open-source data analytics projects
+
+---
+
+# Connect With Me
+
+📧 **Email:** jitendera.yadav250@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-URL
+
+💻 **GitHub:** https://github.com/jitendera-code
+
+---
+
+## 💡 My Motto
+
+> **"Turning raw data into actionable business insights through analytics, visualization, and storytelling."**
+
