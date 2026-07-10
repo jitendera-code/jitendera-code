@@ -2,7 +2,7 @@
 
 ### Data Analyst | SQL | Power BI | Excel | Business Intelligence
 
-I'm an aspiring **Data Analyst** passionate about transforming raw data into actionable business insights. I enjoy solving business problems using **SQL, Power BI, Excel, and Python** by building dashboards, analyzing business performance, and creating data-driven solutions.
+I'm an **Data Analyst** passionate about transforming raw data into actionable business insights. I enjoy solving business problems using **SQL, Power BI, Excel, and Python** by building dashboards, analyzing business performance, and creating data-driven solutions.
 
 Currently, I'm focused on strengthening my skills in **Business Intelligence, Reporting Automation, Data Storytelling, and Business Analytics** while building real-world portfolio projects.
 
