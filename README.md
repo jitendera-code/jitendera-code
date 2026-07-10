@@ -43,7 +43,7 @@ Welcome to my portfolio! This repository showcases end-to-end analytics projects
 | 🛒 **[Retail Sales Performance & Customer Retention Analytics](https://github.com/jitendera-code/Retail-Sales-Customer-Segmentation-Dashboard-SQL-Power-BI-Project)** | Retail Analytics | SQL Server, Power BI, DAX | Cleaned and analyzed **540K+ retail transactions**, performed Revenue, Product, Customer Behaviour, and RFM Analysis, and built an executive Power BI dashboard with KPI reporting and business recommendations. |
 | 💼 **[Global Consulting Revenue Analytics](YOUR_REPOSITORY_LINK)** | Consulting Analytics | SQL Server, Power BI | Designed a relational database and executive dashboard to analyze consulting revenue across regions, departments, and clients using SQL Joins, CTEs, Window Functions, and DAX. |
 | 📈 **[Vrinda Store Sales Dashboard](https://github.com/jitendera-code/vrinda_store_sales-analysis_Excel)** | E-commerce Analytics | Microsoft Excel | Developed an interactive Excel dashboard using Pivot Tables, Pivot Charts, KPIs, and Slicers to analyze **31K+ sales transactions**, customer demographics, regional performance, and sales channels. |
-| 👥 **HR Analytics Dashboard** *(Coming Soon)* | Human Resources | SQL Server, Power BI | Workforce analytics project covering employee demographics, hiring trends, attrition analysis, and HR KPI reporting. |
+
 
 ---
 
@@ -84,7 +84,7 @@ Welcome to my portfolio! This repository showcases end-to-end analytics projects
 
 📧 **Email:** jitendera.yadav250@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-URL
+💼 **LinkedIn:** www.linkedin.com/in/jitendera-yadav-0aa69a385
 
 💻 **GitHub:** https://github.com/jitendera-code
 
