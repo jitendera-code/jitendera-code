@@ -62,7 +62,6 @@ Welcome to my portfolio! This repository showcases end-to-end analytics projects
 
 # Currently Learning
 
-- Advanced SQL for Analytics
 - Python for Data Analysis & Automation
 - Statistics for Data Analytics
 - Business Intelligence Best Practices
