@@ -36,7 +36,7 @@ Welcome to my portfolio! This repository showcases end-to-end analytics projects
 
 ---
 
-# Featured Projects
+#  TOP 3 Projects
 
 | Project | Business Domain | Tools | Description |
 |---------|-----------------|-------|-------------|
