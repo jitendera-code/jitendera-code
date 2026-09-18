@@ -4,7 +4,7 @@
 
 I turn raw data into **business insights, decision-ready dashboards, and actionable recommendations** using SQL, Power BI, Excel, and Python.
 
-My portfolio focuses on **sales analytics, customer segmentation, pricing & inventory analysis, insurance analytics, e-commerce returns, and business reporting**.
+My portfolio focuses on **customer segmentation & retention, market analysis, sales analytics, pricing & inventory analysis, insurance analytics, e-commerce returns, and business reporting**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jitendera-yadav-0aa69a385">LinkedIn</a> •
@@ -18,7 +18,7 @@ My portfolio focuses on **sales analytics, customer segmentation, pricing & inve
 
 | Project | Business Focus | Tools |
 |---|---|---|
-| 🛒 **[Retail Sales & Customer Retention Analytics](https://github.com/jitendera-code/Retail-Sales-Customer-Segmentation-Dashboard-SQL-Power-BI-Project)** | Revenue, customer behavior, RFM segmentation & retention | SQL Server, Power BI, DAX |
+| 🎯 **[Customer Segmentation & Retention Analytics — Market Analysis](https://github.com/jitendera-code/Retail-Sales-Customer-Segmentation-Dashboard-SQL-Power-BI-Project)** | Market analysis, customer behavior, RFM segmentation, retention & revenue opportunities | SQL Server, Power BI, DAX |
 | 🤖 **[AI-Assisted E-commerce Return Analysis](https://github.com/jitendera-code/AI-Assisted-E-commerce-Return-Analysis-Excel-MCP-server-Power-BI-claude)** | Return drivers, risk concentration & action prioritization | Excel, Power BI, DAX, Claude AI, MCP |
 | 📦 **[Retail Sales Analytics Dashboard](https://github.com/jitendera-code/Retail-Sales-Analytics-Dashboard)** | Revenue, products, promotions, cities & profitability | Power BI, Power Query, DAX |
 | 🛍️ **[Vrinda Store Sales Dashboard](https://github.com/jitendera-code/vrinda_store_sales-analysis_Excel)** | Sales trends, customer demographics & channel performance | Excel, Pivot Tables, Pivot Charts |
@@ -32,6 +32,9 @@ My portfolio focuses on **sales analytics, customer segmentation, pricing & inve
 
 ## 📊 What I Build
 
+**Customer & Market Analytics**  
+Analyze customer behavior, market segments, purchasing patterns, retention opportunities, and revenue contribution to support targeted business decisions.
+
 **Business Analysis**  
 Translate business questions into KPIs, analytical frameworks, and actionable recommendations.
 
@@ -40,9 +43,6 @@ Clean, transform, explore, and analyze transactional and business datasets.
 
 **Business Intelligence**  
 Build interactive dashboards, data models, DAX measures, and executive reporting.
-
-**Customer Analytics**  
-RFM segmentation, retention analysis, purchasing behavior, and customer-focused insights.
 
 ---
 
@@ -53,7 +53,7 @@ RFM segmentation, retention analysis, purchasing behavior, and customer-focused 
 | **SQL & Databases** | SQL Server, PostgreSQL, Joins, CTEs, Window Functions, Aggregations, Views |
 | **Power BI** | Power Query, DAX, Data Modeling, Star Schema, KPI Dashboards, Drill-through |
 | **Excel** | Pivot Tables, Pivot Charts, XLOOKUP, Conditional Formatting, Dashboard Reporting |
-| **Analytics** | Data Cleaning, EDA, Revenue Analysis, Customer Segmentation, KPI Analysis |
+| **Analytics** | Market Analysis, Customer Segmentation, RFM Analysis, Retention Analysis, Revenue Analysis, KPI Analysis |
 | **Python** | Pandas, NumPy, Data Cleaning, File Handling, Basic Automation |
 | **AI for Analytics** | ChatGPT, Claude, Gemini, Prompt Engineering, AI-assisted workflows |
 
@@ -61,10 +61,11 @@ RFM segmentation, retention analysis, purchasing behavior, and customer-focused 
 
 ## 📈 Portfolio Highlights
 
-- Built end-to-end analytics projects from **raw data → cleaning → analysis → visualization → recommendations**
-- Worked with datasets ranging from **transaction-level retail data to customer, product, claims, and returns data**
-- Focused on communicating insights in a way that supports **marketing, operations, sales, customer retention, and management decisions**
-- Practice areas include **KPI reporting, dashboard storytelling, segmentation, trend analysis, pricing, inventory, and return analytics**
+- Built end-to-end analytics projects from **raw data → cleaning → market/customer analysis → visualization → recommendations**
+- Applied **RFM segmentation** to identify customer groups and retention opportunities
+- Analyzed **customer behavior, revenue contribution, purchasing patterns, and market performance**
+- Created dashboards that translate analytical findings into **business actions for marketing, sales, operations, and customer retention**
+- Worked across **retail, e-commerce, insurance, pricing, inventory, and revenue analytics**
 
 ---
 
@@ -80,9 +81,9 @@ RFM segmentation, retention analysis, purchasing behavior, and customer-focused 
 
 ## 💼 Open To
 
-**Data Analyst | Business Analyst | BI Analyst | MIS Analyst | Reporting Analyst**
+**Data Analyst | Business Analyst | Customer Analytics Analyst | BI Analyst | MIS Analyst | Reporting Analyst**
 
-I am interested in roles where I can combine **business understanding, analytical thinking, SQL, visualization, and data storytelling** to solve real-world problems.
+I am interested in roles where I can combine **business understanding, analytical thinking, SQL, visualization, market analysis, and data storytelling** to solve real-world problems.
 
 ---
 
@@ -94,5 +95,5 @@ I am interested in roles where I can combine **business understanding, analytica
 
 ---
 
-> **Turning data into insights. Turning insights into business decisions.**
+> **Turning customer and market data into actionable business decisions.**
 
